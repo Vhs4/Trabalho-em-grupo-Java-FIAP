@@ -1,4 +1,4 @@
-package br.com.fintech;
+package br.com.fintech.persistence;
 
 public class UserSession {
     private static String username;
